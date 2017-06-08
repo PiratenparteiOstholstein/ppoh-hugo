@@ -1,3 +1,4 @@
 baseURL = "http://PiratenparteiOstholstein.github.io/"
 languageCode = "de-DE"
 title = "Piratenpartei Ostholstein"
+theme = "hugo-theme-bleak"
